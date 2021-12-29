@@ -1,0 +1,21 @@
+{
+  "title": "test",
+  "description": "test",
+  "difficulty": "Beginner",
+  "time": "1",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "golang:1.14"
+  }
+}
